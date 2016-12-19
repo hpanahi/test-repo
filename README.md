@@ -11,3 +11,7 @@ List of things to do:
 * revise 220 syllabus
 
 * revise nvc syllabus
+
+* finish meeting notes 
+
+test.
